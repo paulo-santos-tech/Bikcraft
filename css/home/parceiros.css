@@ -55,3 +55,9 @@
     border-left: none;
   }
 }
+
+@media (max-width: 400px) {
+  .parceiros li {
+    padding: 32px 24px;
+  }
+}
