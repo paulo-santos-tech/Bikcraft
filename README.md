@@ -60,13 +60,13 @@ O **Bikcraft** simula um site real de uma marca premium de bicicletas artesanais
 
 ---
 
-## Imagens
-<p aling="center">
-  <img src="https://github.com/paulo-santos-tech/Bikcraft/blob/main/Home.jpeg" width="600" alt="Homepage do Bikcraft">
-  <img src="https://github.com/paulo-santos-tech/Bikcraft/blob/main/Bicicletas.jpeg" width="600" alt="Página Bicicletas">
-  <img src="https://github.com/paulo-santos-tech/Bikcraft/blob/main/Seguro.jpeg" width="600" alt="Página Seguro">
-  <img src="https://github.com/paulo-santos-tech/Bikcraft/blob/main/Contato.jpeg" width="600" alt="Página Contato">
-  <img src="https://github.com/paulo-santos-tech/Bikcraft/blob/main/Bicicleta%20Individual.jpeg" width="600" alt="Página bicicleta Individual">
+## 🗂️ Imagens
+<p aling="center" display="flex" flex-wrap="wrap">
+  <img src="https://github.com/paulo-santos-tech/Bikcraft/blob/main/Home.jpeg" width="300" alt="Homepage do Bikcraft">
+  <img src="https://github.com/paulo-santos-tech/Bikcraft/blob/main/Bicicletas.jpeg" width="300" alt="Página Bicicletas">
+  <img src="https://github.com/paulo-santos-tech/Bikcraft/blob/main/Seguro.jpeg" width="300" alt="Página Seguro">
+  <img src="https://github.com/paulo-santos-tech/Bikcraft/blob/main/Contato.jpeg" width="300" alt="Página Contato">
+  <img src="https://github.com/paulo-santos-tech/Bikcraft/blob/main/Bicicleta%20Individual.jpeg" width="300" alt="Página bicicleta Individual">
 </p>
 
 ## 🗂️ Estrutura de diretórios
