@@ -148,7 +148,7 @@
 }
 
 .orcamento-produto input:checked + label + .orcamento-detalhes {
-  display: grid;
+  display: grid !important;
 }
 
 @media (max-width: 1200px) {
